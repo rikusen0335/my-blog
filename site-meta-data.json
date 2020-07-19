@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Devmialog",
+  "siteUrl": "https://devmia.net/",
+  "description": "My awesome blog pages made for memo, lifelog, techs etc.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi I'm rikusen.",
+    "description": "こんにちは。ひよっこエンジニアのりくせんです。フロントエンド、DiscordBotの作成、ゲーム開発色々とかやってます。"
   }
 }
